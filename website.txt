@@ -69,11 +69,11 @@ border-radius: 50%;}
                          <h1>Position of responsibility</h1>
                          </br>
                          <p>App Developer at Spider,Research and Development Club of NITT </p>
-						 <p>Manager at Vortex,Symposium of CSE,NITT </p>
+						 <p>Workshops Manager at Vortex,Symposium of CSE,NITT </p>
                          <h1> projects </h1>
 						 </br>
-						 <p>Doing a project related to digital signature under Dr.Kunwar singh</p>
-						 <p>Did a project on NITT word under Dr.Selvakumar</p>
+						 <p>Worked on a project to implement Block chain ciphers and Merkel tree  under Dr.Kunwar singh</p>
+						 
 						 <p>Developed Android Apps like </p>
 						 <ul class="icons">
 							<li><a href="https://github.com/venkateshwarank97/Gallery" ><p> Gallery</p></a></li>
